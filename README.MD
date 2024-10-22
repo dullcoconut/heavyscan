@@ -1,0 +1,1 @@
+Quickly scan common ports of an ip address, with the option to output to a text file untilizing nmap
